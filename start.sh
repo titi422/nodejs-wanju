@@ -12,7 +12,7 @@ export NEZHA_PORT='443'
 export NEZHA_TLS='1'
 
 #设置app参数（默认x-ra-y参数，如果你更该了下载地址，需要修改UUID和VPATH）
-export UUID='fd80f56e-93f3-4c85-b2a8-c77216c509a7'
+export UUID='0fff38ef-b952-4089-8d0c-cf8b0dc16cd7'
 export VPATH='vls'
 export CF_IP='cdn.xn--b6gac.eu.org'
 
