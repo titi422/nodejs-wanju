@@ -2,7 +2,7 @@
 ## ===========================================设置各参数（不需要的可以删掉或者前面加# ）=============================================
 
 # 设置ARGO参数 (不设置默认使用临时隧道，如果设置把前面的#去掉)
-# export TOK='xxxxx'
+# export TOK='eyJhIjoiOGU1ZjkxMTg3NzNlNjM3N2Y4MWNlYzUxZWY2ZWJiNTIiLCJ0IjoiMDg5MTUwYWMtMGFlZS00NzU0LTljZDctMTExM2JkMTBkNGE1IiwicyI6IlpHWXpPREEwWlRJdFpqZGhaaTAwTURRM0xXRmlZVEV0WWpneE0yVmxPVEV3WmpkbSJ9'
 # export ARGO_DOMAIN='xxxxx'
 
 #设置哪吒参数(NEZHA_TLS='1'开启tls,设置其他关闭tls)
@@ -14,7 +14,7 @@ export NEZHA_TLS='1'
 #设置app参数（默认x-ra-y参数，如果你更该了下载地址，需要修改UUID和VPATH）
 export UUID='0fff38ef-b952-4089-8d0c-cf8b0dc16cd7'
 export VPATH='vls'
-export CF_IP='cdn.xn--b6gac.eu.org'
+export CF_IP='jp.cdn.kous.top'
 
 ## ===========================================设置x-ra-y下载地址（建议直接使用默认）===============================
 # 设置amd64-X-A-R-Y下载地址（带内置配置版本）
